@@ -1,6 +1,5 @@
 //HTML Elements
 const label = document.getElementById("passwordLabel");
-console.log(label);
 //User Input
 const userName = prompt("Inserire il proprio nome:");
 const userSecondName = prompt("Inserire il proprio cognome:");
